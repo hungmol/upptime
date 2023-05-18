@@ -58,7 +58,7 @@
     "url": "https://daushack.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
     "uptimeDay": "96.54%",
     "uptimeWeek": "98.26%",
@@ -90,7 +90,7 @@
     "timeMonth": 1466,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2023-05-18": 436,
+      "2023-05-18": 447,
       "2023-05-17": 1440,
       "2023-05-16": 973
     }
