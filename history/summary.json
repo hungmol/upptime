@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 109,
-    "timeDay": 213,
-    "timeWeek": 125,
+    "timeDay": 83,
+    "timeWeek": 122,
     "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 202,
-    "timeWeek": 258,
-    "timeMonth": 263,
+    "timeDay": 83,
+    "timeWeek": 238,
+    "timeMonth": 257,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 318,
-    "timeDay": 294,
-    "timeWeek": 366,
-    "timeMonth": 357,
-    "timeYear": 318,
+    "time": 317,
+    "timeDay": 154,
+    "timeWeek": 331,
+    "timeMonth": 347,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2024-05-01": 20,
       "2024-01-10": 85,
@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
     "status": "down",
-    "uptime": "15.18%",
+    "uptime": "15.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -83,7 +83,8 @@
     "timeMonth": 0,
     "timeYear": 2271,
     "dailyMinutesDown": {
-      "2024-08-01": 49,
+      "2024-08-02": 44,
+      "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
@@ -444,8 +445,7 @@
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
-      "2023-08-04": 1440,
-      "2023-08-03": 1440
+      "2023-08-04": 1440
     }
   },
   {
@@ -454,7 +454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mintshop.duckdns.org.ico",
     "slug": "mint-shop",
     "status": "down",
-    "uptime": "14.74%",
+    "uptime": "14.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -465,7 +465,8 @@
     "timeMonth": 0,
     "timeYear": 1961,
     "dailyMinutesDown": {
-      "2024-08-01": 49,
+      "2024-08-02": 44,
+      "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
@@ -826,8 +827,7 @@
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
-      "2023-08-04": 1440,
-      "2023-08-03": 1440
+      "2023-08-04": 1440
     }
   }
 ]
