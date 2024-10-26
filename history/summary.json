@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 156,
-    "timeWeek": 114,
-    "timeMonth": 100,
+    "timeDay": 71,
+    "timeWeek": 113,
+    "timeMonth": 99,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2024-05-01": 44,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 178,
-    "timeWeek": 243,
-    "timeMonth": 244,
+    "timeDay": 307,
+    "timeWeek": 235,
+    "timeMonth": 239,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 319,
-    "timeDay": 387,
-    "timeWeek": 373,
-    "timeMonth": 314,
+    "timeDay": 385,
+    "timeWeek": 363,
+    "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-08-07": 18,
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
     "status": "down",
-    "uptime": "12.74%",
+    "uptime": "12.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -81,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-25": 51,
+      "2024-10-26": 50,
+      "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -444,8 +445,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
@@ -454,18 +454,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mintshop.duckdns.org.ico",
     "slug": "mint-shop",
     "status": "down",
-    "uptime": "12.37%",
+    "uptime": "12.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2466,
+    "time": 2341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-25": 51,
+      "2024-10-26": 50,
+      "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -828,8 +829,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   }
 ]
