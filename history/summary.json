@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 94,
-    "timeWeek": 103,
-    "timeMonth": 102,
+    "timeDay": 148,
+    "timeWeek": 112,
+    "timeMonth": 104,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-05-01": 44
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 203,
-    "timeWeek": 170,
-    "timeMonth": 207,
+    "timeDay": 198,
+    "timeWeek": 173,
+    "timeMonth": 206,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -49,17 +49,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 318,
-    "timeDay": 312,
-    "timeWeek": 297,
-    "timeMonth": 336,
-    "timeYear": 319,
+    "timeDay": 314,
+    "timeWeek": 290,
+    "timeMonth": 335,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2024-08-07": 18,
       "2024-05-01": 20,
       "2024-01-10": 85,
       "2023-12-15": 21,
-      "2023-12-12": 224,
-      "2023-11-16": 24
+      "2023-12-12": 224
     }
   },
   {
@@ -68,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
     "status": "down",
-    "uptime": "12.27%",
+    "uptime": "12.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2066,
+    "time": 2111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 51,
+      "2024-11-15": 54,
+      "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -442,8 +442,7 @@
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
-      "2023-11-17": 1440,
-      "2023-11-16": 1440
+      "2023-11-17": 1440
     }
   },
   {
@@ -452,18 +451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mintshop.duckdns.org.ico",
     "slug": "mint-shop",
     "status": "down",
-    "uptime": "11.92%",
+    "uptime": "11.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2321,
+    "time": 2357,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 51,
+      "2024-11-15": 54,
+      "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -826,8 +826,7 @@
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
-      "2023-11-17": 1440,
-      "2023-11-16": 1440
+      "2023-11-17": 1440
     }
   }
 ]
