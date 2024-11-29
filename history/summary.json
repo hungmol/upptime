@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 106,
     "timeDay": 97,
-    "timeWeek": 91,
-    "timeMonth": 95,
+    "timeWeek": 89,
+    "timeMonth": 94,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-05-01": 44
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 200,
-    "timeWeek": 214,
-    "timeMonth": 199,
-    "timeYear": 237,
+    "timeDay": 221,
+    "timeWeek": 225,
+    "timeMonth": 200,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 321,
-    "timeDay": 317,
-    "timeWeek": 364,
-    "timeMonth": 334,
+    "time": 320,
+    "timeDay": 112,
+    "timeWeek": 356,
+    "timeMonth": 325,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-08-07": 18,
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
     "status": "down",
-    "uptime": "11.96%",
+    "uptime": "11.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1737,
+    "time": 1854,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-28": 55,
+      "2024-11-29": 55,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -441,8 +442,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -451,18 +451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mintshop.duckdns.org.ico",
     "slug": "mint-shop",
     "status": "down",
-    "uptime": "11.62%",
+    "uptime": "11.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1737,
+    "time": 1788,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-28": 55,
+      "2024-11-29": 55,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -825,8 +826,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   }
 ]
