@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 250,
-    "timeWeek": 135,
-    "timeMonth": 108,
+    "timeDay": 106,
+    "timeWeek": 121,
+    "timeMonth": 109,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-01": 44
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 157,
-    "timeMonth": 204,
+    "time": 228,
+    "timeDay": 180,
+    "timeWeek": 154,
+    "timeMonth": 203,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -48,16 +48,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 263,
-    "timeMonth": 322,
+    "time": 318,
+    "timeDay": 390,
+    "timeWeek": 258,
+    "timeMonth": 324,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-08-07": 18,
       "2024-05-01": 20,
-      "2024-01-10": 85,
-      "2023-12-15": 21
+      "2024-01-10": 85
     }
   },
   {
@@ -66,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/daushack.duckdns.org.ico",
     "slug": "dau-shack",
     "status": "down",
-    "uptime": "11.65%",
+    "uptime": "11.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -77,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 57,
+      "2024-12-14": 54,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -440,8 +440,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   },
   {
@@ -450,7 +449,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mintshop.duckdns.org.ico",
     "slug": "mint-shop",
     "status": "down",
-    "uptime": "11.32%",
+    "uptime": "11.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -461,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 57,
+      "2024-12-14": 54,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -824,8 +824,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   }
 ]
